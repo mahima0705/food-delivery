@@ -1,7 +1,6 @@
 {
   "name": "grubk-food-ordering-website-",
   "version": "1.0.0",
-  "main": "App.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
