@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     padding: 10px;
-    border: 2px solid black;
+    border: 1px solid black;
 }
 
 .logo{
@@ -20,4 +20,53 @@
 .nav-items >ul >li{
     padding: 20px;
     margin: 10px;
+}
+
+.body{
+    padding: 50px;
+}
+
+.res-img{
+    border-radius: 25px;
+    width: 350px;
+    height: 248px;
+    justify-content: center;
+}
+
+.res-container{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.res-card{
+    border-radius: 25px;
+    width:350px;
+    height: 350px;
+    padding: 10px;
+    margin: 18px;
+
+}
+.name-ratings{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.name-ratings >h4{
+    margin: 8px 0px 6px;
+
+}
+.name-ratings >h3{
+    margin: 8px 0px 6px;
+
+}
+.cuisine-time{
+    color: #696969;
+}
+
+.res-card:hover{
+    border: 1px solid #696969;
+    cursor: pointer;
+    box-shadow: 10px;
 }
