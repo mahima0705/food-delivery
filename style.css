@@ -34,7 +34,7 @@
 }
 
 .res-container{
-    padding: 20px;
+    padding: 20px 0px 20px 40px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -44,9 +44,9 @@
     width:350px;
     height: 350px;
     padding: 10px;
-    margin: 18px;
-
+    margin: 20px 40px 0px 0px;
 }
+
 .name-ratings{
     display: flex;
     justify-content: space-between;
@@ -61,8 +61,14 @@
     margin: 8px 0px 6px;
 
 }
-.cuisine-time{
+.cuisine-cost{
     color: #696969;
+}
+.cuisine-cost > p{
+    margin: 0px;
+}
+.time{
+    margin: 2px;
 }
 
 .res-card:hover{
