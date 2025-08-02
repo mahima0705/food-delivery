@@ -154,6 +154,103 @@ const resList =  [
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
     {
+        "info": {
+        "id": "16073",
+        "name": "California Burrito",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/3/8e6326d5-8abb-432d-83be-cf6ebb6f09ff_16073.jpg",
+        "locality": "Mantri Mall",
+        "areaName": "Malleshwaram",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+        "Mexican",
+        "American",
+        "Salads",
+        "Continental",
+        "Keto",
+        "Healthy Food",
+        "Beverages",
+        "Snacks",
+        "Desserts",
+        "Fast Food"
+        ],
+        "avgRating": 4.7,
+        "parentId": "432183",
+        "avgRatingString": "4.7",
+        "totalRatingsString": "17K+",
+        "sla": {
+        "deliveryTime": 33,
+        "lastMileTravel": 4.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "4.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+        "nextCloseTime": "2025-07-29 23:00:00",
+        "opened": true
+        },
+        "badges": {
+        "textExtendedBadges": [
+        {
+        "iconId": "guiltfree/GF_Logo_android_3x",
+        "shortDescription": "options available",
+        "fontColor": "#7E808C"
+        }
+        ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+        "entityBadges": {
+        "imageBased": {},
+        "textBased": {},
+        "textExtendedBadges": {
+        "badgeObject": [
+        {
+        "attributes": {
+        "description": "",
+        "fontColor": "#7E808C",
+        "iconId": "guiltfree/GF_Logo_android_3x",
+        "shortDescription": "options available"
+        }
+        }
+        ]
+        }
+        }
+        },
+        "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+        },
+        "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+        "lottie": {},
+        "video": {}
+        }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+        "aggregatedRating": {
+        "rating": "4.6",
+        "ratingCount": "1.5K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+        "context": "seo-data-b9df2b99-fb10-4f4c-b9e8-ee2f7ad3fa52"
+        },
+        "cta": {
+        "link": "https://www.swiggy.com/city/bangalore/california-burrito-mantri-mall-malleshwaram-rest16073",
+        "type": "WEBLINK"
+        }
+    },
+    {
     "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
     "info": {
     "id": "630193",
@@ -225,6 +322,188 @@ const resList =  [
     "type": "WEBLINK"
     },
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+        "id": "3369",
+        "name": "Truffles",
+        "cloudinaryImageId": "cd832b6167eb9f88aeb1ccdebf38d942",
+        "locality": "St. Marks Road",
+        "areaName": "St. Marks Road",
+        "costForTwo": "₹450 for two",
+        "cuisines": [
+        "American",
+        "Desserts",
+        "Continental",
+        "Italian"
+        ],
+        "avgRating": 4.6,
+        "parentId": "218065",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "146K+",
+        "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 3.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+        "nextCloseTime": "2025-07-30 00:00:00",
+        "opened": true
+        },
+        "badges": {
+        "imageBadges": [
+        {
+        "imageId": "Rxawards/_CATEGORY-Burger.png",
+        "description": "Delivery!"
+        }
+        ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+        "entityBadges": {
+        "imageBased": {
+        "badgeObject": [
+        {
+        "attributes": {
+        "description": "Delivery!",
+        "imageId": "Rxawards/_CATEGORY-Burger.png"
+        }
+        }
+        ]
+        },
+        "textBased": {},
+        "textExtendedBadges": {}
+        }
+        },
+        "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+        "lottie": {},
+        "video": {}
+        }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+        "aggregatedRating": {
+        "rating": "4.5",
+        "ratingCount": "20K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+        "context": "seo-data-b9df2b99-fb10-4f4c-b9e8-ee2f7ad3fa52"
+        },
+        "cta": {
+        "link": "https://www.swiggy.com/city/bangalore/truffles-st-marks-road-rest3369",
+        "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+        "id": "426730",
+        "name": "Theobroma",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/23/6efb660b-047e-489e-8e35-478f79f2ac9f_426730.JPG",
+        "locality": "Lavelle Road",
+        "areaName": "Ashok Nagar",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+        "Desserts",
+        "Bakery",
+        "Beverages"
+        ],
+        "avgRating": 4.7,
+        "parentId": "1040",
+        "avgRatingString": "4.7",
+        "totalRatingsString": "6.0K+",
+        "sla": {
+        "deliveryTime": 18,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "15-20 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+        "nextCloseTime": "2025-07-29 23:00:00",
+        "opened": true
+        },
+        "badges": {
+        "imageBadges": [
+        {
+        "imageId": "Rxawards/_CATEGORY-Desserts.png",
+        "description": "Delivery!"
+        },
+        {
+        "imageId": "newg.png",
+        "description": "Gourmet"
+        }
+        ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+        "entityBadges": {
+        "imageBased": {
+        "badgeObject": [
+        {
+        "attributes": {
+        "description": "Delivery!",
+        "imageId": "Rxawards/_CATEGORY-Desserts.png"
+        }
+        },
+        {
+        "attributes": {
+        "description": "Gourmet",
+        "imageId": "newg.png"
+        }
+        }
+        ]
+        },
+        "textBased": {},
+        "textExtendedBadges": {}
+        }
+        },
+        "aggregatedDiscountInfoV3": {
+        "header": "15% OFF",
+        "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+        "lottie": {},
+        "video": {}
+        }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+        "aggregatedRating": {
+        "rating": "4.1",
+        "ratingCount": "441"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+        "context": "seo-data-b9df2b99-fb10-4f4c-b9e8-ee2f7ad3fa52"
+        },
+        "cta": {
+        "link": "https://www.swiggy.com/city/bangalore/theobroma-lavelle-road-ashok-nagar-rest426730",
+        "type": "WEBLINK"
+        }
     },
     {
     "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
